@@ -63,14 +63,14 @@ function nar2(){
   const naruceno = document.getElementById("naruceno");
     const prostor2n = document.getElementById("ispis2n");
   if(kolici > 0){
-    const poruka1 = `Naručeno: Muške farmerke, komada ${kolici}.<br>`
-    prostor2n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka3 = `Naručeno: Muške farmerke, komada ${kolici}.<br>`
+    prostor2n.innerHTML = poruka3;
+    naruceno.value = poruka3;
   }
   else {
-      const poruka2 = "";
-      prostor2n.innerHTML = poruka2;
-      naruceno.value = poruka2;
+      const poruka4 = "";
+      prostor2n.innerHTML = poruka4;
+      naruceno.value = poruka4;
   }
 }
 
@@ -80,14 +80,14 @@ function nar3(){
   const naruceno = document.getElementById("naruceno");
     const prostor3n = document.getElementById("ispis3n");
   if(kolicin > 0){
-    const poruka1 = `Naručeno: Sive patike, komada ${kolicin}.<br>`
-    prostor3n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka5 = `Naručeno: Sive patike, komada ${kolicin}.<br>`
+    prostor3n.innerHTML = poruka5;
+    naruceno.value = poruka5;
   }
   else {
-    const poruka2 = "";
-    prostor3n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka6 = "";
+    prostor3n.innerHTML = poruka6;
+    naruceno.value = poruka6;
   }
 }
 
@@ -97,14 +97,14 @@ function nar4(){
   const naruceno = document.getElementById("naruceno");
     const prostor4n = document.getElementById("ispis4n");
   if(kolicina > 0){
-    const poruka1 = `Naručeno: Plave patike, komada ${kolicina}.<br>`
-    prostor4n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka7 = `Naručeno: Plave patike, komada ${kolicina}.<br>`
+    prostor4n.innerHTML = poruka7;
+    naruceno.value = poruka7;
   }
   else {
-    const poruka2 = "";
-    prostor4n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka8 = "";
+    prostor4n.innerHTML = poruka8;
+    naruceno.value = poruka8;
   }
 }
 
@@ -114,14 +114,14 @@ function nar5(){
   const naruceno = document.getElementById("naruceno");
     const prostor5n = document.getElementById("ispis5n");
   if(kol5Input > 0){
-    const poruka1 = `Naručeno: Crna majica, komada ${kol5Input}.<br>`
-    prostor5n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka9 = `Naručeno: Crna majica, komada ${kol5Input}.<br>`
+    prostor5n.innerHTML = poruka9
+    naruceno.value = poruka9;
   }
   else {
-    const poruka2 = "";
-    prostor5n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka10 = "";
+    prostor5n.innerHTML = poruka10;
+    naruceno.value = poruka10;
   }
 }
 
@@ -131,14 +131,14 @@ function nar6(){
   const naruceno = document.getElementById("naruceno");
     const prostor6n = document.getElementById("ispis6n");
   if(kol6Input > 0){
-    const poruka1 = `Naručeno: Narukvica, komada ${kol6Input}.<br>`
-    prostor6n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka11 = `Naručeno: Narukvica, komada ${kol6Input}.<br>`
+    prostor6n.innerHTML = poruka11;
+    naruceno.value = poruka11;
   }
   else {
-    const poruka2 = "";
-    prostor6n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka12 = "";
+    prostor6n.innerHTML = poruka12;
+    naruceno.value = poruka12;
   }
 }
 
@@ -148,14 +148,14 @@ function nar7(){
   const naruceno = document.getElementById("naruceno");
     const prostor7n = document.getElementById("ispis7n");
   if(kol7Input > 0){
-    const poruka1 = `Naručeno: Braon torba, komada ${kol7Input}.<br>`
-    prostor7n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka13 = `Naručeno: Braon torba, komada ${kol7Input}.<br>`
+    prostor7n.innerHTML = poruka13;
+    naruceno.value = poruka13;
   }
   else {
-    const poruka2 = "";
-    prostor7n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka14 = "";
+    prostor7n.innerHTML = poruka14;
+    naruceno.value = poruka14;
   }
 }
 
@@ -165,14 +165,14 @@ function nar8(){
   const naruceno = document.getElementById("naruceno");
     const prostor8n = document.getElementById("ispis8n");
   if(kol8Input > 0){
-    const poruka1 = `Naručeno: Plave farmerice, komada ${kol8Input}.<br>`
-    prostor8n.innerHTML = poruka1;
-    naruceno.value = poruka1;
+    const poruka15 = `Naručeno: Plave farmerice, komada ${kol8Input}.<br>`
+    prostor8n.innerHTML = poruka15;
+    naruceno.value = poruka15;
   }
   else {
-    const poruka2 = "";
-    prostor8n.innerHTML = poruka2;
-    naruceno.value = poruka2;
+    const poruka16 = "";
+    prostor8n.innerHTML = poruka16;
+    naruceno.value = poruka16;
   }
 }
 
